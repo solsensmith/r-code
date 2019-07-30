@@ -1,3 +1,3 @@
 # r-code
-R Code for English 211Z
+R Code for English 211Z.
 Content pending
